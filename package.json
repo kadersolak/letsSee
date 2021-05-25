@@ -1,0 +1,31 @@
+{
+  "name": "letsSee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "letsSee.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "html",
+      "text"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadersolak/letsSee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadersolak/letsSee/issues"
+  },
+  "homepage": "https://github.com/kadersolak/letsSee#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  }
+}
